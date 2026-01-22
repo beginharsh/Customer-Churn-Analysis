@@ -48,20 +48,16 @@ Customers with credit scores between 500–600 showed higher churn compared to p
 
 Inactive customers churned significantly more than active customers
 
-📈 Recommendations
 
-Implement early-warning churn triggers for high-balance and mid-age customer segments
+## 📈 Recommendations
 
-Design relationship-based retention programs for high-value customers instead of generic offers
+- Implement early-warning churn triggers for high-balance and mid-age customer segments
+- Design relationship-based retention programs for high-value customers instead of generic offers
+- Improve engagement and cross-sell strategies (e.g., credit card adoption) to reduce inactivity-driven churn
+- Monitor mid-credit score customers closely with targeted loyalty and engagement initiatives
 
-Improve engagement and cross-sell strategies (e.g., credit card adoption) to reduce inactivity-driven churn
 
-Monitor mid-credit score customers closely with targeted loyalty and engagement initiatives
-
-🛠 Tools & Technologies
-
-Power BI – Data modeling, DAX measures, interactive dashboards
-
-Excel / CSV – Data preparation and validation
-
-SQL (conceptual) – Churn segmentation logic
+## 🛠 Tools & Technologies
+- Power BI – Data modeling, DAX measures, interactive dashboards
+- Excel / CSV – Data preparation and validation
+- SQL (conceptual) – Churn segmentation logic
